@@ -4,7 +4,7 @@
     "version": "1.0.0",
     "title": "Personal Spidertron",
     "description": "Each player gets a personal spidertron.",
-    "homepage": "tbd.",
+    "homepage": "https://github.com/cornernote/factorio-personal-spidertron",
     "factorio_version": "1.1",
     "dependencies": [
         "base >= 1.1.0"
