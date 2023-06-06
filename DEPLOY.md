@@ -1,7 +1,7 @@
-
+package
 ```sh
-zip -r personal-spidertron_1.0.0.zip ./src/
-cp personal-spidertron_1.0.0.zip ~/Library/Application\ Support/factorio/mods/
+zip -r personal-spidertron_1.0.1.zip ./src/
+cp personal-spidertron_1.0.1.zip ~/Library/Application\ Support/factorio/mods/
 ```
 
 add symlink
